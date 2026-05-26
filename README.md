@@ -74,7 +74,8 @@ The main physical components of this layout are:
 - <img width="1025" height="551" alt="image" src="https://github.com/user-attachments/assets/d9128bdd-ed00-4d66-9386-8ff6b6036784" />
  <img width="1025" height="521" alt="image" src="https://github.com/user-attachments/assets/327207d2-2b67-4df4-9b25-3c35eb3bc650" />
 
-<img width="793" height="1280" alt="WhatsApp Image 2026-05-16 at 9 37 47 AM" src="https://github.com/user-attachments/assets/f6663e18-0644-40ca-ba0e-7f70e7b8bea7" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-26 at 7 22 14 PM" src="https://github.com/user-attachments/assets/b1e7c2dd-9d6b-439a-953d-fc875eb9a7bf" />
+
 
 ---
 
